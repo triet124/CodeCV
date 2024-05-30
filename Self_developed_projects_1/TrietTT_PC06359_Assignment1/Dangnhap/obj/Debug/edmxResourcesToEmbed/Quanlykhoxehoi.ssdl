@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyXeHoiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DangNhap">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="matkhau" Type="char" MaxLength="20" />
+    <Property Name="PhanQuyen" Type="char" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Kho">
+    <Key>
+      <PropertyRef Name="MaKho" />
+    </Key>
+    <Property Name="MaKho" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+    <Property Name="QuanLy" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="LoaiXe">
+    <Key>
+      <PropertyRef Name="MaLoai" />
+    </Key>
+    <Property Name="MaLoai" Type="int" Nullable="false" />
+    <Property Name="TenLoai" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="XeHoi">
+    <Key>
+      <PropertyRef Name="MaXe" />
+    </Key>
+    <Property Name="MaXe" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenXe" Type="nvarchar" MaxLength="50" />
+    <Property Name="Kho" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="NgayNhapKho" Type="date" />
+    <Property Name="MaLoai" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="fk_kho">
+    <End Role="Kho" Type="Self.Kho" Multiplicity="1" />
+    <End Role="XeHoi" Type="Self.XeHoi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kho">
+        <PropertyRef Name="MaKho" />
+      </Principal>
+      <Dependent Role="XeHoi">
+        <PropertyRef Name="Kho" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_maloai">
+    <End Role="LoaiXe" Type="Self.LoaiXe" Multiplicity="1" />
+    <End Role="XeHoi" Type="Self.XeHoi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LoaiXe">
+        <PropertyRef Name="MaLoai" />
+      </Principal>
+      <Dependent Role="XeHoi">
+        <PropertyRef Name="MaLoai" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLyXeHoiModelStoreContainer">
+    <EntitySet Name="DangNhap" EntityType="Self.DangNhap" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kho" EntityType="Self.Kho" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LoaiXe" EntityType="Self.LoaiXe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="XeHoi" EntityType="Self.XeHoi" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_kho" Association="Self.fk_kho">
+      <End Role="Kho" EntitySet="Kho" />
+      <End Role="XeHoi" EntitySet="XeHoi" />
+    </AssociationSet>
+    <AssociationSet Name="fk_maloai" Association="Self.fk_maloai">
+      <End Role="LoaiXe" EntitySet="LoaiXe" />
+      <End Role="XeHoi" EntitySet="XeHoi" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

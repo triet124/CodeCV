@@ -1,0 +1,63 @@
+﻿
+@{
+	ViewData["Title"] = "Pay_view";
+}
+@model IEnumerable<Cars>
+ <div class="">
+		<div class="row mt-3">
+			<div class="col-sm-6 border-end-0">
+				<div class="row">
+				@foreach (var item in Model)
+				{
+						<img src="\Image\Car\@item.HinhAnh" class="col-sm-6 rounded img-thumbnail">
+						<div class="col-sm-6">
+							<table class="table">
+								<tr>
+									<td>Tên: </td>
+									<td>@item.Ten</td>
+								</tr>
+								<tr>
+									<td>Màu: </td>
+									<td>@item.MoTa</td>
+								</tr>
+								<tr>
+									<td>Loại: </td>
+									<td>@item.Categories.TenLoai</td>
+								</tr>
+								<tr>
+									<td>Tình trạng: </td>
+									<td>@item.TinhTrang</td>
+								</tr>
+								<tr>
+									<td>Số lượng: </td>
+									<td>1</td>
+								</tr>
+							</table>
+						</div>
+				}
+				</div>
+			</div>
+			<div class="col-sm-6 border-start-0">
+				<div class="mb-2 mt-2">
+					<label for="email" class="form-label">Email:</label>
+					<input type="email" class="form-control" id="email" placeholder="name@example.com">
+				  </div>
+				  <div class="mb-2">
+					<label for="phone" class="form-label">Số điện thoại: </label>
+					<input type="text" class="form-control" id="phone" placeholder="0xxxxxxxxx">
+				  </div>
+				  <div class="mb-2">
+					<label for="address" class="form-label">Địa chỉ: </label>
+					<input type="text" class="form-control" id="address" placeholder="Ấp xxx, Xã xxx, huyện xxx, Thành phố, xxx">
+				  </div>
+				<h5>Vui lòng nhập phương thức thanh toán</h5>
+					<div class="mb-2">
+					<input type="text" class="form-control" id="address" placeholder="Khi nhận hàng, Tại cửa hàng">
+				  </div>
+				  <div class="text-end mb-3">
+					<a asp-area="User" asp-controller="User" asp-action="" type="button" id="paybutton" class="btn btn-outline-warning btn-lg">Đặt hàng</a>
+				  </div>
+			</div>
+		</div>
+
+	</div>

@@ -1,0 +1,715 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\views\\product\\prod_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\views\\product\\prod_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\views\\product\\prod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\views\\product\\prod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\views\\pay\\pay_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\views\\pay\\pay_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\areas\\user\\controllers\\paycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\areas\\user\\controllers\\paycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|d:\\fpt poly teachnic\\c# 4\\triettt_pc06359_assignment_gd2\\triettt_pc06359_assignment\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E97CECF-A94F-4485-80BC-4C70128725C1}|TrietTT_PC06359_Assignment\\TrietTT_PC06359_Assignment.csproj|solutionrelative:triettt_pc06359_assignment\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\appsettings.json",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\appsettings.json",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T15:03:15.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:54:28.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:10:20.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:16:15.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Order\\Order.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Order\\Order.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Order\\Order.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Order\\Order.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T13:47:09.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Order\\OrderDetails.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Order\\OrderDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T15:04:24.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T14:16:26.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T13:53:34.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prod_details.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Product\\Prod_details.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Product\\Prod_details.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Product\\Prod_details.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Product\\Prod_details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T14:00:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prod.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Product\\Prod.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Product\\Prod.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Product\\Prod.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Product\\Prod.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T15:01:12.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA9wBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:21:29.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Models\\Cars.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Models\\Cars.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Models\\Cars.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Models\\Cars.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:54:59.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Models\\Categories.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Models\\Categories.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Models\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:16:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T12:20:42.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T12:52:51.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:10:29.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:17:43.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T12:22:06.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T06:31:23.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:57:18.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:32:46.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:32:41.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CarsController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:18:47.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Create.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T13:22:00.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:27:48.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:27:49.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:29:19.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Details.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Details.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Details.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwD8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:55:51.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Edit.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Edit.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T15:35:06.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Models\\Customers.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Models\\Customers.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Models\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:55:10.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:30:59.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:32:01.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:32:34.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T06:42:46.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:29:41.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:29:34.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Delete.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Delete.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\Admin\\Views\\Cars\\Delete.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T03:21:27.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T12:21:39.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PayController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\PayController.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\PayController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\PayController.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Controllers\\PayController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:59:08.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Pay_view.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Pay\\Pay_view.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Pay\\Pay_view.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Pay\\Pay_view.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Areas\\User\\Views\\Pay\\Pay_view.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADYAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T13:59:03.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Models\\Orders.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Models\\Orders.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:01:13.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Program.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Program.cs",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:26:41.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Views\\Order\\Order.cshtml",
+              "RelativeDocumentMoniker": "TrietTT_PC06359_Assignment\\Views\\Order\\Order.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\C# 4\\TrietTT_PC06359_Assignment_gd2\\TrietTT_PC06359_Assignment\\Views\\Order\\Order.cshtml",
+              "RelativeToolTip": "TrietTT_PC06359_Assignment\\Views\\Order\\Order.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T11:35:29.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

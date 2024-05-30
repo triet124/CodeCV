@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyXeHoiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DangNhap">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="matkhau" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="PhanQuyen" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Kho">
+    <Key>
+      <PropertyRef Name="MaKho" />
+    </Key>
+    <Property Name="MaKho" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="QuanLy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="XeHois" Relationship="Self.fk_kho" FromRole="Kho" ToRole="XeHoi" />
+  </EntityType>
+  <EntityType Name="LoaiXe">
+    <Key>
+      <PropertyRef Name="MaLoai" />
+    </Key>
+    <Property Name="MaLoai" Type="Int32" Nullable="false" />
+    <Property Name="TenLoai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="XeHois" Relationship="Self.fk_maloai" FromRole="LoaiXe" ToRole="XeHoi" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="XeHoi">
+    <Key>
+      <PropertyRef Name="MaXe" />
+    </Key>
+    <Property Name="MaXe" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenXe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Kho" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="NgayNhapKho" Type="DateTime" Precision="0" />
+    <Property Name="MaLoai" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kho1" Relationship="Self.fk_kho" FromRole="XeHoi" ToRole="Kho" />
+    <NavigationProperty Name="LoaiXe" Relationship="Self.fk_maloai" FromRole="XeHoi" ToRole="LoaiXe" />
+  </EntityType>
+  <Association Name="fk_kho">
+    <End Role="Kho" Type="Self.Kho" Multiplicity="1" />
+    <End Role="XeHoi" Type="Self.XeHoi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kho">
+        <PropertyRef Name="MaKho" />
+      </Principal>
+      <Dependent Role="XeHoi">
+        <PropertyRef Name="Kho" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_maloai">
+    <End Role="LoaiXe" Type="Self.LoaiXe" Multiplicity="1" />
+    <End Role="XeHoi" Type="Self.XeHoi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LoaiXe">
+        <PropertyRef Name="MaLoai" />
+      </Principal>
+      <Dependent Role="XeHoi">
+        <PropertyRef Name="MaLoai" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLyXeHoiEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DangNhaps" EntityType="Self.DangNhap" />
+    <EntitySet Name="Khoes" EntityType="Self.Kho" />
+    <EntitySet Name="LoaiXes" EntityType="Self.LoaiXe" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="XeHois" EntityType="Self.XeHoi" />
+    <AssociationSet Name="fk_kho" Association="Self.fk_kho">
+      <End Role="Kho" EntitySet="Khoes" />
+      <End Role="XeHoi" EntitySet="XeHois" />
+    </AssociationSet>
+    <AssociationSet Name="fk_maloai" Association="Self.fk_maloai">
+      <End Role="LoaiXe" EntitySet="LoaiXes" />
+      <End Role="XeHoi" EntitySet="XeHois" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|d:\\fpt poly teachnic\\duan1\\duan1\\duan1\\codethuatsu\\duan1\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\chitiethanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\chitiethanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\quanlyhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\quanlyhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\quanlyhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\quanlyhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\laycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\laycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DUAN1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\getcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\getcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\duan1\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7825AD9C-2EDD-411B-AC63-D11094235F76}|DUAN1\\DUAN1.csproj|solutionrelative:duan1\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 193,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyHoaDon.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "DUAN1\\QuanLyHoaDon.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyHoaDon.cs",
+              "RelativeToolTip": "DUAN1\\QuanLyHoaDon.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:58:38.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyHangHoa.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyHangHoa.cs",
+              "RelativeDocumentMoniker": "DUAN1\\QuanLyHangHoa.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyHangHoa.cs",
+              "RelativeToolTip": "DUAN1\\QuanLyHangHoa.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAiwHMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:57:08.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanLyHangHoa.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyHangHoa.cs",
+              "RelativeDocumentMoniker": "DUAN1\\QuanLyHangHoa.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyHangHoa.cs [Design]",
+              "RelativeToolTip": "DUAN1\\QuanLyHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T13:43:57.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManHinhChinh.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ManHinhChinh.cs",
+              "RelativeDocumentMoniker": "DUAN1\\ManHinhChinh.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ManHinhChinh.cs",
+              "RelativeToolTip": "DUAN1\\ManHinhChinh.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T13:58:23.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\Login.cs",
+              "RelativeDocumentMoniker": "DUAN1\\Login.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\Login.cs [Design]",
+              "RelativeToolTip": "DUAN1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T13:49:01.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManHinhChinh.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ManHinhChinh.cs",
+              "RelativeDocumentMoniker": "DUAN1\\ManHinhChinh.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ManHinhChinh.cs [Design]",
+              "RelativeToolTip": "DUAN1\\ManHinhChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T13:53:46.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuanLyNhanVien.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "DUAN1\\QuanLyNhanVien.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyNhanVien.cs",
+              "RelativeToolTip": "DUAN1\\QuanLyNhanVien.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwFQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:35:57.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\Login.cs",
+              "RelativeDocumentMoniker": "DUAN1\\Login.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\Login.cs",
+              "RelativeToolTip": "DUAN1\\Login.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAhwFsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T13:49:02.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "DUAN1\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "DUAN1\\ChiTietHoaDon.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAIwM8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:06:54.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanLyKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "DUAN1\\QuanLyKhachHang.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyKhachHang.cs [Design]",
+              "RelativeToolTip": "DUAN1\\QuanLyKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:12:27.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietHangHoa.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ChiTietHangHoa.cs",
+              "RelativeDocumentMoniker": "DUAN1\\ChiTietHangHoa.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ChiTietHangHoa.cs [Design]",
+              "RelativeToolTip": "DUAN1\\ChiTietHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:53:48.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LayCode.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\LayCode.cs",
+              "RelativeDocumentMoniker": "DUAN1\\LayCode.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\LayCode.cs [Design]",
+              "RelativeToolTip": "DUAN1\\LayCode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:53:52.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "DUAN1\\QuanLyHoaDon.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyHoaDon.cs [Design]",
+              "RelativeToolTip": "DUAN1\\QuanLyHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:53:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "DUAN1\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "DUAN1\\ChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:53:50.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyKhachHang.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "DUAN1\\QuanLyKhachHang.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyKhachHang.cs",
+              "RelativeToolTip": "DUAN1\\QuanLyKhachHang.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:12:29.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "DUAN1\\QuanLyNhanVien.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\QuanLyNhanVien.cs [Design]",
+              "RelativeToolTip": "DUAN1\\QuanLyNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:35:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DUAN1",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\DUAN1.csproj",
+              "RelativeDocumentMoniker": "DUAN1\\DUAN1.csproj",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\DUAN1.csproj",
+              "RelativeToolTip": "DUAN1\\DUAN1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T11:44:30.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\DBHandler.cs",
+              "RelativeDocumentMoniker": "DUAN1\\DBHandler.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\DBHandler.cs",
+              "RelativeToolTip": "DUAN1\\DBHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:46:46.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetCode.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\GetCode.cs",
+              "RelativeDocumentMoniker": "DUAN1\\GetCode.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\GetCode.cs",
+              "RelativeToolTip": "DUAN1\\GetCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:46:45.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\Model1.edmx",
+              "RelativeDocumentMoniker": "DUAN1\\Model1.edmx",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DUAN1\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-02-29T15:51:19.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\Program.cs",
+              "RelativeDocumentMoniker": "DUAN1\\Program.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\Program.cs",
+              "RelativeToolTip": "DUAN1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:17:00.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\App.config",
+              "RelativeDocumentMoniker": "DUAN1\\App.config",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\App.config",
+              "RelativeToolTip": "DUAN1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAC7AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-12-23T13:55:38.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThongTinNhanVien.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ThongTinNhanVien.cs",
+              "RelativeDocumentMoniker": "DUAN1\\ThongTinNhanVien.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ThongTinNhanVien.cs",
+              "RelativeToolTip": "DUAN1\\ThongTinNhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-23T13:44:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThongTinNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ThongTinNhanVien.cs",
+              "RelativeDocumentMoniker": "DUAN1\\ThongTinNhanVien.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ThongTinNhanVien.cs [Design]",
+              "RelativeToolTip": "DUAN1\\ThongTinNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-23T13:43:59.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ThongKe.cs",
+              "RelativeDocumentMoniker": "DUAN1\\ThongKe.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\DuAn1\\DUAN1\\DUAN1\\CODETHUATSU\\DUAN1\\ThongKe.cs [Design]",
+              "RelativeToolTip": "DUAN1\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-23T13:43:40.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

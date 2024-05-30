@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "Prod";
+}
+@model IEnumerable<Cars>
+<hr />
+<h3 class="text-center highlight" color="red">CÁC SẢN PHẨM TRONG THÁNG NÀY</h3>
+<hr />
+<div class="container ">
+    <div class="row g-2 justify-content-center">
+        @foreach (var item in Model)
+        {
+                     <div class="card mt-3 col-sm-4 p-0 me-3 " style="width: 400px;" >
+                        <a class="btn btn-default" href="/User/Product/Prod_details/@item.CarID">
+                        <img src="\Image\Car\@item.HinhAnh" class="card-img text-center" width="350px" height="200px" />
+                        <div class="bordered text-sm-start">
+                            <table class="table bordered">
+                            <tr>
+                                <td>Tên xe: </td>
+                                <td>@Html.DisplayFor(modelItem => item.Ten)</td>
+                            </tr>
+                            <tr>
+                                <td>Loại: </td>
+                                <td>@Html.DisplayFor(modelItem => item.Categories.TenLoai)</td>
+                            </tr>
+                            <tr>
+                                <td>Giá: </td>
+                                <td>@item.Gia.ToString("N0")</td>
+                            </tr>
+                            <tr>
+                                <td>Mô tả: </td>
+                                 <td>@Html.DisplayFor(modelItem => item.MoTa)</td>
+                            </tr>
+                            <tr>
+                                <td>Năm sản xuất: </td>
+                                <td>@Html.DisplayFor(modelItem => item.NamSanXuat)</td>
+                            </tr>
+
+                            <tr>
+                                <td>Tình trạng: </td>
+                                <td>@Html.DisplayFor(modelItem => item.TinhTrang)</td>
+                            </tr>
+                        </table>
+                    </div>
+                        </a>
+                </div>
+        }
+    </div>
+</div>
+

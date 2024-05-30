@@ -1,0 +1,47 @@
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\Dangnhap.exe.config
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\Dangnhap.exe
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\Dangnhap.pdb
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.AssemblyReference.cache
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.Form1.resources
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.Loai.resources
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.GenerateResource.cache
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.CoreCompileInputs.cache
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.exe
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.pdb
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.KhoXe.resources
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment1\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.XeHoi.resources
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.AssemblyReference.cache
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.Form1.resources
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.KhoXe.resources
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.Xe.resources
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.GenerateResource.cache
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.CoreCompileInputs.cache
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.exe
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.pdb
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\Dangnhap.exe.config
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\Dangnhap.exe
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\Dangnhap.pdb
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\EntityFramework.dll
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\EntityFramework.SqlServer.dll
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\EntityFramework.xml
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\EntityFramework.SqlServer.xml
+D:\FPT POLY TEACHNIC\C#3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.CopyComplete
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\Dangnhap.exe.config
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\Dangnhap.exe
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\Dangnhap.pdb
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\EntityFramework.dll
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\EntityFramework.SqlServer.dll
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\EntityFramework.xml
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\bin\Debug\EntityFramework.SqlServer.xml
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.AssemblyReference.cache
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.Form1.resources
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.KhoXe.resources
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.Xe.resources
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.GenerateResource.cache
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKhoXeHoi.csproj.CoreCompileInputs.cache
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\QuanLyKh.E7C9D6C8.Up2Date
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.exe
+D:\FPT POLY TEACHNIC\C# 3\TrietTT_PC06359_Assignment2\TrietTT_PC06359_Assignment1\Dangnhap\obj\Debug\Dangnhap.pdb

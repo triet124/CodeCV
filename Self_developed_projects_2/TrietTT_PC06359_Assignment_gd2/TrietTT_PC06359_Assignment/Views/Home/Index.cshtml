@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Cars>
+
+<header class="text-center">
+          <img src="@Url.Content("~/Image/home-banner-Product.jpg")" class="img-fluid img-thumbnail" >
+</header>
+<hr />
+<h3 class="text-center highlight" color="red">CÁC SẢN PHẨM NỔI BẬT</h3>
+<div class="container ">
+    <div class="row g-2 justify-content-center ">
+        @foreach (var item in Model)
+        {
+            
+            <div class="card mt-3 col-sm-4 p-0 me-3 " style="width: 400px;" >
+                    <a class="btn btn-default" asp-area="" asp-controller="Product" asp-action="Prod">
+                        <img src="\Image\Car\@item.HinhAnh" class="card-img text-center" width="350px" height="200px" />
+                    <div class="bordered text-sm-start">
+                        <table class="table bordered">
+                        <tr>
+                            <td>Tên xe: </td>
+                            <td>@item.Ten</td>
+                        </tr>
+                        <tr>
+                            <td>Loại: </td>
+                            <td>@item.Categories.TenLoai</td>
+                        </tr>
+                        <tr>
+                            <td>Giá: </td>
+                            <td>@item.Gia.ToString("#,##0")</td>
+                        </tr>
+                        <tr>
+                            <td>Mô tả: </td>
+                            <td>@item.MoTa</td>
+                        </tr>
+                        <tr>
+                            <td>Năm sản xuất: </td>
+                            <td>@item.NamSanXuat</td>
+                        </tr>
+
+                        <tr>
+                            <td>Tình trạng: </td>
+                            <td>@item.TinhTrang</td>
+                        </tr>
+                    </table>
+                </div>
+                    </a>
+            </div>
+            
+        }
+    </div>
+</div>
+

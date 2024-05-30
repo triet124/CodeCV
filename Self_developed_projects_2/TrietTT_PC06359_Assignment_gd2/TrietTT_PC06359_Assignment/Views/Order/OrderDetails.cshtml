@@ -1,0 +1,51 @@
+﻿@model IEnumerable<OrderDetails>
+
+@{
+    ViewData["Title"] = "OrderDetails";
+}
+
+<h1>OrderDetails</h1>
+
+<div>
+    <h4>OrderDetails</h4>
+    <hr />
+    <dl class="row">
+        @foreach(var item in Model)
+        {
+                <dt class = "col-sm-2">
+                Ngày tạo
+            </dt>
+            <dd class = "col-sm-10">
+                @item.NgayTao
+            </dd>
+            <dt class = "col-sm-2">
+                Tổng giá
+            </dt>
+            <dd class = "col-sm-10">
+                @item.TongGia
+            </dd>
+            <dt class = "col-sm-2">
+                Số lượng
+            </dt>
+            <dd class = "col-sm-10">
+                @item.SoLuong
+            </dd>
+            <dt class = "col-sm-2">
+                Tình trạng thanh toán
+            </dt>
+            <dd class = "col-sm-10">
+                @item.TinhTrangThanhToan
+            </dd>
+            <dt class = "col-sm-2">
+                Mã Hóa Đơn
+            </dt>
+            <dd class = "col-sm-10">
+                @item.Orders.OrderID
+            </dd>
+        }
+        
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

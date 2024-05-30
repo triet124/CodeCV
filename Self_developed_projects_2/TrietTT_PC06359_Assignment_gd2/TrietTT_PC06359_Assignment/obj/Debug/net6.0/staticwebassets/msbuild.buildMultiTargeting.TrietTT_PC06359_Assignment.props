@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TrietTT_PC06359_Assignment.props" />
+</Project>

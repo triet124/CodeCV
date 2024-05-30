@@ -1,0 +1,64 @@
+﻿@model IEnumerable<TrietTT_PC06359_Assignment.Models.Cars>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    @* <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayDat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customers)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cars)
+            </th>
+            <th></th>
+        </tr>
+    </thead> *@
+    <tbody>
+@foreach (var item in Model) {
+                <div class="row g-0 p-2">
+
+                        <img class="col-md-4 img-thumbnail rounded p-2" src="\Image\Car\@item.HinhAnh">
+                        <ul class="col-md-7 offset-md-1 p-2 card-body">
+                            <li>Tên xe: @item.Ten</li>
+                            <li>Mô tả: @item.MoTa</li>
+                            <li>Đơn giá: @item.Gia</li>
+                            <li>Loại: @item.Categories.TenLoai</li>
+                            <li>Tình Trạng: @item.TinhTrang</li>
+                            <li>Số lượng còn <span class="badge bg-warning">@item.SoLuongTon</span> chiếc</li>
+                            <li>Năm sản xuất: @item.NamSanXuat</li>
+                        </ul>
+                </div>
+                <div class="text-end m-2">
+                     <a asp-area="User" asp-route-id="@item.CarID" asp-controller="Pay" asp-action="Pay_view" class="btn btn-warning btn-lg ms-3">Mua</a>
+                </div>
+                   
+        @* <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customers.CustomerID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cars.CarID)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OrderID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OrderID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OrderID">Delete</a>
+            </td>
+        </tr> *@
+}
+    </tbody>
+</table>
