@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="COLLEGE_MANAGEMENTModelStoreContainer" CdmEntityContainer="COLLEGE_MANAGEMENTEntities1">
+    <EntitySetMapping Name="giang_vien">
+      <EntityTypeMapping TypeName="COLLEGE_MANAGEMENTModel.giang_vien">
+        <MappingFragment StoreEntitySet="giang_vien">
+          <ScalarProperty Name="ma_gv" ColumnName="ma_gv" />
+          <ScalarProperty Name="ho_ten" ColumnName="ho_ten" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="hoc_ky">
+      <EntityTypeMapping TypeName="COLLEGE_MANAGEMENTModel.hoc_ky">
+        <MappingFragment StoreEntitySet="hoc_ky">
+          <ScalarProperty Name="ma_hk" ColumnName="ma_hk" />
+          <ScalarProperty Name="ten_hk" ColumnName="ten_hk" />
+          <ScalarProperty Name="bat_dau" ColumnName="bat_dau" />
+          <ScalarProperty Name="ket_thuc" ColumnName="ket_thuc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="hoc_vien">
+      <EntityTypeMapping TypeName="COLLEGE_MANAGEMENTModel.hoc_vien">
+        <MappingFragment StoreEntitySet="hoc_vien">
+          <ScalarProperty Name="ma_hv" ColumnName="ma_hv" />
+          <ScalarProperty Name="ma_sv" ColumnName="ma_sv" />
+          <ScalarProperty Name="ma_lh" ColumnName="ma_lh" />
+          <ScalarProperty Name="diem" ColumnName="diem" />
+          <ScalarProperty Name="nhan_xet" ColumnName="nhan_xet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="lop_hoc">
+      <EntityTypeMapping TypeName="COLLEGE_MANAGEMENTModel.lop_hoc">
+        <MappingFragment StoreEntitySet="lop_hoc">
+          <ScalarProperty Name="ma_lh" ColumnName="ma_lh" />
+          <ScalarProperty Name="ma_mh" ColumnName="ma_mh" />
+          <ScalarProperty Name="ma_gv" ColumnName="ma_gv" />
+          <ScalarProperty Name="ma_hk" ColumnName="ma_hk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mon_hoc">
+      <EntityTypeMapping TypeName="COLLEGE_MANAGEMENTModel.mon_hoc">
+        <MappingFragment StoreEntitySet="mon_hoc">
+          <ScalarProperty Name="ma_mh" ColumnName="ma_mh" />
+          <ScalarProperty Name="ten_mh" ColumnName="ten_mh" />
+          <ScalarProperty Name="thoi_luong" ColumnName="thoi_luong" />
+          <ScalarProperty Name="so_tc" ColumnName="so_tc" />
+          <ScalarProperty Name="mo_ta" ColumnName="mo_ta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="nhan_vien">
+      <EntityTypeMapping TypeName="COLLEGE_MANAGEMENTModel.nhan_vien">
+        <MappingFragment StoreEntitySet="nhan_vien">
+          <ScalarProperty Name="ma_nv" ColumnName="ma_nv" />
+          <ScalarProperty Name="ho_ten" ColumnName="ho_ten" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sinh_vien">
+      <EntityTypeMapping TypeName="COLLEGE_MANAGEMENTModel.sinh_vien">
+        <MappingFragment StoreEntitySet="sinh_vien">
+          <ScalarProperty Name="ma_sv" ColumnName="ma_sv" />
+          <ScalarProperty Name="ho_ten" ColumnName="ho_ten" />
+          <ScalarProperty Name="gioi_tinh" ColumnName="gioi_tinh" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tai_khoan">
+      <EntityTypeMapping TypeName="COLLEGE_MANAGEMENTModel.tai_khoan">
+        <MappingFragment StoreEntitySet="tai_khoan">
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASS" ColumnName="PASS" />
+          <ScalarProperty Name="VAITRO" ColumnName="VAITRO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

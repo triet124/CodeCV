@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="COLLEGE_MANAGEMENTModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="giang_vien">
+    <Key>
+      <PropertyRef Name="ma_gv" />
+    </Key>
+    <Property Name="ma_gv" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ho_ten" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="mobile" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="lop_hoc" Relationship="Self.fk_magv" FromRole="giang_vien" ToRole="lop_hoc" />
+  </EntityType>
+  <EntityType Name="hoc_ky">
+    <Key>
+      <PropertyRef Name="ma_hk" />
+    </Key>
+    <Property Name="ma_hk" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ten_hk" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="bat_dau" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ket_thuc" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="lop_hoc" Relationship="Self.fk_mahk" FromRole="hoc_ky" ToRole="lop_hoc" />
+  </EntityType>
+  <EntityType Name="hoc_vien">
+    <Key>
+      <PropertyRef Name="ma_hv" />
+    </Key>
+    <Property Name="ma_hv" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ma_sv" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ma_lh" Type="Int32" Nullable="false" />
+    <Property Name="diem" Type="Double" />
+    <Property Name="nhan_xet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="lop_hoc" Relationship="Self.fk_malh" FromRole="hoc_vien" ToRole="lop_hoc" />
+    <NavigationProperty Name="sinh_vien" Relationship="Self.fk_masv" FromRole="hoc_vien" ToRole="sinh_vien" />
+  </EntityType>
+  <EntityType Name="lop_hoc">
+    <Key>
+      <PropertyRef Name="ma_lh" />
+    </Key>
+    <Property Name="ma_lh" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ma_mh" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="ma_gv" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="ma_hk" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="giang_vien" Relationship="Self.fk_magv" FromRole="lop_hoc" ToRole="giang_vien" />
+    <NavigationProperty Name="hoc_ky" Relationship="Self.fk_mahk" FromRole="lop_hoc" ToRole="hoc_ky" />
+    <NavigationProperty Name="hoc_vien" Relationship="Self.fk_malh" FromRole="lop_hoc" ToRole="hoc_vien" />
+    <NavigationProperty Name="mon_hoc" Relationship="Self.fk_mamh" FromRole="lop_hoc" ToRole="mon_hoc" />
+  </EntityType>
+  <EntityType Name="mon_hoc">
+    <Key>
+      <PropertyRef Name="ma_mh" />
+    </Key>
+    <Property Name="ma_mh" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ten_mh" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="thoi_luong" Type="Int32" Nullable="false" />
+    <Property Name="so_tc" Type="Int32" Nullable="false" />
+    <Property Name="mo_ta" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="lop_hoc" Relationship="Self.fk_mamh" FromRole="mon_hoc" ToRole="lop_hoc" />
+  </EntityType>
+  <EntityType Name="nhan_vien">
+    <Key>
+      <PropertyRef Name="ma_nv" />
+    </Key>
+    <Property Name="ma_nv" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ho_ten" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="sinh_vien">
+    <Key>
+      <PropertyRef Name="ma_sv" />
+    </Key>
+    <Property Name="ma_sv" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ho_ten" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="gioi_tinh" Type="Byte" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="mobile" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="hoc_vien" Relationship="Self.fk_masv" FromRole="sinh_vien" ToRole="hoc_vien" />
+  </EntityType>
+  <EntityType Name="tai_khoan">
+    <Key>
+      <PropertyRef Name="USERNAME" />
+    </Key>
+    <Property Name="USERNAME" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PASS" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="VAITRO" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <Association Name="fk_magv">
+    <End Role="giang_vien" Type="Self.giang_vien" Multiplicity="0..1" />
+    <End Role="lop_hoc" Type="Self.lop_hoc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="giang_vien">
+        <PropertyRef Name="ma_gv" />
+      </Principal>
+      <Dependent Role="lop_hoc">
+        <PropertyRef Name="ma_gv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_mahk">
+    <End Role="hoc_ky" Type="Self.hoc_ky" Multiplicity="0..1" />
+    <End Role="lop_hoc" Type="Self.lop_hoc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="hoc_ky">
+        <PropertyRef Name="ma_hk" />
+      </Principal>
+      <Dependent Role="lop_hoc">
+        <PropertyRef Name="ma_hk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_malh">
+    <End Role="lop_hoc" Type="Self.lop_hoc" Multiplicity="1" />
+    <End Role="hoc_vien" Type="Self.hoc_vien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="lop_hoc">
+        <PropertyRef Name="ma_lh" />
+      </Principal>
+      <Dependent Role="hoc_vien">
+        <PropertyRef Name="ma_lh" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_masv">
+    <End Role="sinh_vien" Type="Self.sinh_vien" Multiplicity="1" />
+    <End Role="hoc_vien" Type="Self.hoc_vien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="sinh_vien">
+        <PropertyRef Name="ma_sv" />
+      </Principal>
+      <Dependent Role="hoc_vien">
+        <PropertyRef Name="ma_sv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_mamh">
+    <End Role="mon_hoc" Type="Self.mon_hoc" Multiplicity="0..1" />
+    <End Role="lop_hoc" Type="Self.lop_hoc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="mon_hoc">
+        <PropertyRef Name="ma_mh" />
+      </Principal>
+      <Dependent Role="lop_hoc">
+        <PropertyRef Name="ma_mh" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="COLLEGE_MANAGEMENTEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="giang_vien" EntityType="Self.giang_vien" />
+    <EntitySet Name="hoc_ky" EntityType="Self.hoc_ky" />
+    <EntitySet Name="hoc_vien" EntityType="Self.hoc_vien" />
+    <EntitySet Name="lop_hoc" EntityType="Self.lop_hoc" />
+    <EntitySet Name="mon_hoc" EntityType="Self.mon_hoc" />
+    <EntitySet Name="nhan_vien" EntityType="Self.nhan_vien" />
+    <EntitySet Name="sinh_vien" EntityType="Self.sinh_vien" />
+    <EntitySet Name="tai_khoan" EntityType="Self.tai_khoan" />
+    <AssociationSet Name="fk_magv" Association="Self.fk_magv">
+      <End Role="giang_vien" EntitySet="giang_vien" />
+      <End Role="lop_hoc" EntitySet="lop_hoc" />
+    </AssociationSet>
+    <AssociationSet Name="fk_mahk" Association="Self.fk_mahk">
+      <End Role="hoc_ky" EntitySet="hoc_ky" />
+      <End Role="lop_hoc" EntitySet="lop_hoc" />
+    </AssociationSet>
+    <AssociationSet Name="fk_malh" Association="Self.fk_malh">
+      <End Role="lop_hoc" EntitySet="lop_hoc" />
+      <End Role="hoc_vien" EntitySet="hoc_vien" />
+    </AssociationSet>
+    <AssociationSet Name="fk_masv" Association="Self.fk_masv">
+      <End Role="sinh_vien" EntitySet="sinh_vien" />
+      <End Role="hoc_vien" EntitySet="hoc_vien" />
+    </AssociationSet>
+    <AssociationSet Name="fk_mamh" Association="Self.fk_mamh">
+      <End Role="mon_hoc" EntitySet="mon_hoc" />
+      <End Role="lop_hoc" EntitySet="lop_hoc" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

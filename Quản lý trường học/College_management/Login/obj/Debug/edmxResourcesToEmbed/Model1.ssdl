@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="COLLEGE_MANAGEMENTModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="giang_vien">
+    <Key>
+      <PropertyRef Name="ma_gv" />
+    </Key>
+    <Property Name="ma_gv" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="ho_ten" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="mobile" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="hoc_ky">
+    <Key>
+      <PropertyRef Name="ma_hk" />
+    </Key>
+    <Property Name="ma_hk" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="ten_hk" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="bat_dau" Type="date" Nullable="false" />
+    <Property Name="ket_thuc" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="hoc_vien">
+    <Key>
+      <PropertyRef Name="ma_hv" />
+    </Key>
+    <Property Name="ma_hv" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ma_sv" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="ma_lh" Type="int" Nullable="false" />
+    <Property Name="diem" Type="float" />
+    <Property Name="nhan_xet" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="lop_hoc">
+    <Key>
+      <PropertyRef Name="ma_lh" />
+    </Key>
+    <Property Name="ma_lh" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ma_mh" Type="varchar" MaxLength="20" />
+    <Property Name="ma_gv" Type="varchar" MaxLength="20" />
+    <Property Name="ma_hk" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="mon_hoc">
+    <Key>
+      <PropertyRef Name="ma_mh" />
+    </Key>
+    <Property Name="ma_mh" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="ten_mh" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="thoi_luong" Type="int" Nullable="false" />
+    <Property Name="so_tc" Type="int" Nullable="false" />
+    <Property Name="mo_ta" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="nhan_vien">
+    <Key>
+      <PropertyRef Name="ma_nv" />
+    </Key>
+    <Property Name="ma_nv" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="ho_ten" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sinh_vien">
+    <Key>
+      <PropertyRef Name="ma_sv" />
+    </Key>
+    <Property Name="ma_sv" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="ho_ten" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="gioi_tinh" Type="tinyint" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="mobile" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tai_khoan">
+    <Key>
+      <PropertyRef Name="USERNAME" />
+    </Key>
+    <Property Name="USERNAME" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="PASS" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="VAITRO" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="fk_magv">
+    <End Role="giang_vien" Type="Self.giang_vien" Multiplicity="0..1" />
+    <End Role="lop_hoc" Type="Self.lop_hoc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="giang_vien">
+        <PropertyRef Name="ma_gv" />
+      </Principal>
+      <Dependent Role="lop_hoc">
+        <PropertyRef Name="ma_gv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_mahk">
+    <End Role="hoc_ky" Type="Self.hoc_ky" Multiplicity="0..1" />
+    <End Role="lop_hoc" Type="Self.lop_hoc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="hoc_ky">
+        <PropertyRef Name="ma_hk" />
+      </Principal>
+      <Dependent Role="lop_hoc">
+        <PropertyRef Name="ma_hk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_malh">
+    <End Role="lop_hoc" Type="Self.lop_hoc" Multiplicity="1" />
+    <End Role="hoc_vien" Type="Self.hoc_vien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="lop_hoc">
+        <PropertyRef Name="ma_lh" />
+      </Principal>
+      <Dependent Role="hoc_vien">
+        <PropertyRef Name="ma_lh" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_mamh">
+    <End Role="mon_hoc" Type="Self.mon_hoc" Multiplicity="0..1" />
+    <End Role="lop_hoc" Type="Self.lop_hoc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="mon_hoc">
+        <PropertyRef Name="ma_mh" />
+      </Principal>
+      <Dependent Role="lop_hoc">
+        <PropertyRef Name="ma_mh" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_masv">
+    <End Role="sinh_vien" Type="Self.sinh_vien" Multiplicity="1" />
+    <End Role="hoc_vien" Type="Self.hoc_vien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="sinh_vien">
+        <PropertyRef Name="ma_sv" />
+      </Principal>
+      <Dependent Role="hoc_vien">
+        <PropertyRef Name="ma_sv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="COLLEGE_MANAGEMENTModelStoreContainer">
+    <EntitySet Name="giang_vien" EntityType="Self.giang_vien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="hoc_ky" EntityType="Self.hoc_ky" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="hoc_vien" EntityType="Self.hoc_vien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="lop_hoc" EntityType="Self.lop_hoc" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="mon_hoc" EntityType="Self.mon_hoc" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="nhan_vien" EntityType="Self.nhan_vien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sinh_vien" EntityType="Self.sinh_vien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tai_khoan" EntityType="Self.tai_khoan" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_magv" Association="Self.fk_magv">
+      <End Role="giang_vien" EntitySet="giang_vien" />
+      <End Role="lop_hoc" EntitySet="lop_hoc" />
+    </AssociationSet>
+    <AssociationSet Name="fk_mahk" Association="Self.fk_mahk">
+      <End Role="hoc_ky" EntitySet="hoc_ky" />
+      <End Role="lop_hoc" EntitySet="lop_hoc" />
+    </AssociationSet>
+    <AssociationSet Name="fk_malh" Association="Self.fk_malh">
+      <End Role="lop_hoc" EntitySet="lop_hoc" />
+      <End Role="hoc_vien" EntitySet="hoc_vien" />
+    </AssociationSet>
+    <AssociationSet Name="fk_mamh" Association="Self.fk_mamh">
+      <End Role="mon_hoc" EntitySet="mon_hoc" />
+      <End Role="lop_hoc" EntitySet="lop_hoc" />
+    </AssociationSet>
+    <AssociationSet Name="fk_masv" Association="Self.fk_masv">
+      <End Role="sinh_vien" EntitySet="sinh_vien" />
+      <End Role="hoc_vien" EntitySet="hoc_vien" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

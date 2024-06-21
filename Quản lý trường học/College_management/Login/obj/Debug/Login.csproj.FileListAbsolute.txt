@@ -1,0 +1,54 @@
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\Login.exe.config
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\Login.exe
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\Login.pdb
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.Properties.Resources.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.exe
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.pdb
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.Login.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyDanhMucMonHoc.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyGiangVien.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLySinhVien.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyHocKy.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyHocVien.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyLopHoc.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyThongTinCaNhanGiangVien.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyThongTinCaNhanSinhVien.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\EntityFramework.dll
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\EntityFramework.SqlServer.dll
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\EntityFramework.xml
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\EntityFramework.SqlServer.xml
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.csproj.CopyComplete
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyThongTinCaNhanNhanVien.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLy.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.ChamDiemHocVien.resources
+D:\FPT POLY TEACHNIC\Dự án mẫu (UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.DoiMatKhau.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\Login.exe.config
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\Login.exe
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\Login.pdb
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\EntityFramework.dll
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\EntityFramework.SqlServer.dll
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\EntityFramework.xml
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\bin\Debug\EntityFramework.SqlServer.xml
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.ChamDiemHocVien.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.Login.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.DoiMatKhau.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLy.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyDanhMucMonHoc.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.Properties.Resources.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyGiangVien.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyHocKy.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyHocVien.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyLopHoc.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLySinhVien.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyThongTinCaNhanGiangVien.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyThongTinCaNhanNhanVien.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.QuanLyThongTinCaNhanSinhVien.resources
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.csproj.CopyComplete
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.exe
+D:\FPT POLY TEACHNIC\DuAnMau(UDPM.NET)\trietttpc06359_DuanmauC#_Assignment_gd2_SD18301\College_management\Login\obj\Debug\Login.pdb

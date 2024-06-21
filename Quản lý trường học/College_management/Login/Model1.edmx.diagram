@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="442d4d016ddd409397a7bb46159a64c9" Name="Diagram1">
+        <EntityTypeShape EntityType="COLLEGE_MANAGEMENTModel.giang_vien" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="COLLEGE_MANAGEMENTModel.hoc_ky" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="COLLEGE_MANAGEMENTModel.hoc_vien" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="COLLEGE_MANAGEMENTModel.lop_hoc" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="COLLEGE_MANAGEMENTModel.mon_hoc" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="COLLEGE_MANAGEMENTModel.nhan_vien" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="COLLEGE_MANAGEMENTModel.sinh_vien" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="COLLEGE_MANAGEMENTModel.tai_khoan" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="COLLEGE_MANAGEMENTModel.fk_magv" ManuallyRouted="false" />
+        <AssociationConnector Association="COLLEGE_MANAGEMENTModel.fk_mahk" ManuallyRouted="false" />
+        <AssociationConnector Association="COLLEGE_MANAGEMENTModel.fk_malh" ManuallyRouted="false" />
+        <AssociationConnector Association="COLLEGE_MANAGEMENTModel.fk_masv" ManuallyRouted="false" />
+        <AssociationConnector Association="COLLEGE_MANAGEMENTModel.fk_mamh" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
